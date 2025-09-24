@@ -1,0 +1,89 @@
+{
+  "datacenters": [
+    {
+      "name": "us-east-1",
+      "location": "N. Virginia, USA",
+      "servers": [
+        { "hostname": "web-01", "ip": "10.0.1.10", "status": "online", "cpu": 30.2, "mem": 55.1 },
+        { "hostname": "db-01", "ip": "10.0.1.11", "status": "online", "cpu": 15.0, "mem": 75.0 },
+        { "hostname": "cache-01", "ip": "10.0.1.12", "status": "online", "cpu": 5.5, "mem": 85.9 }
+      ]
+    },
+    {
+      "name": "us-west-2",
+      "location": "Oregon, USA",
+      "servers": [
+        { "hostname": "app-01", "ip": "10.2.1.20", "status": "online", "cpu": 65.7, "mem": 70.2 },
+        { "hostname": "app-02", "ip": "10.2.1.21", "status": "offline", "cpu": 0.0, "mem": 5.0 }
+      ]
+    },
+    {
+      "name": "eu-west-1",
+      "location": "Dublin, Ireland",
+      "servers": [
+        { "hostname": "web-02", "ip": "10.1.2.20", "status": "online", "cpu": 22.0, "mem": 48.3 },
+        { "hostname": "api-01", "ip": "10.1.2.21", "status": "online", "cpu": 75.8, "mem": 62.3 },
+        { "hostname": "db-02", "ip": "10.1.2.22", "status": "online", "cpu": 18.4, "mem": 78.1 }
+      ]
+    },
+    {
+      "name": "eu-central-1",
+      "location": "Frankfurt, Germany",
+      "servers": [
+        { "hostname": "web-03", "ip": "10.3.1.30", "status": "online", "cpu": 19.5, "mem": 40.5 },
+        { "hostname": "cache-02", "ip": "10.3.1.31", "status": "offline", "cpu": 0.0, "mem": 5.2 }
+      ]
+    },
+    {
+      "name": "ap-southeast-1",
+      "location": "Singapore",
+      "servers": [
+        { "hostname": "app-03", "ip": "10.4.1.40", "status": "online", "cpu": 45.1, "mem": 59.7 },
+        { "hostname": "db-03", "ip": "10.4.1.41", "status": "online", "cpu": 20.3, "mem": 80.0 }
+      ]
+    },
+    {
+      "name": "ap-northeast-1",
+      "location": "Tokyo, Japan",
+      "servers": [
+        { "hostname": "web-04", "ip": "10.5.1.50", "status": "online", "cpu": 33.9, "mem": 51.5 },
+        { "hostname": "api-02", "ip": "10.5.1.51", "status": "online", "cpu": 68.2, "mem": 65.4 }
+      ]
+    },
+    {
+      "name": "ap-south-1",
+      "location": "Mumbai, India",
+      "servers": [
+        { "hostname": "web-05", "ip": "10.6.1.60", "status": "online", "cpu": 40.0, "mem": 60.1 },
+        { "hostname": "db-04", "ip": "10.6.1.61", "status": "online", "cpu": 25.5, "mem": 82.5 },
+        { "hostname": "app-04", "ip": "10.6.1.62", "status": "online", "cpu": 70.1, "mem": 68.9 }
+      ]
+    },
+    {
+      "name": "sa-east-1",
+      "location": "São Paulo, Brazil",
+      "servers": [
+        { "hostname": "app-05", "ip": "10.7.1.70", "status": "online", "cpu": 50.5, "mem": 66.8 },
+        { "hostname": "db-05", "ip": "10.7.1.71", "status": "offline", "cpu": 0.0, "mem": 8.0 }
+      ]
+    },
+    {
+      "name": "ca-central-1",
+      "location": "Central Canada",
+      "servers": [
+        { "hostname": "web-06", "ip": "10.8.1.80", "status": "online", "cpu": 28.7, "mem": 53.0 },
+        { "hostname": "cache-03", "ip": "10.8.1.81", "status": "online", "cpu": 6.1, "mem": 88.2 }
+      ]
+    },
+    {
+      "name": "af-south-1",
+      "location": "Cape Town, South Africa",
+      "servers": [
+        { "hostname": "web-07", "ip": "10.9.1.90", "status": "online", "cpu": 21.3, "mem": 45.6 },
+        { "hostname": "db-06", "ip": "10.9.1.91", "status": "online", "cpu": 12.8, "mem": 72.4 }
+      ]
+    }
+  ]
+}
+
+
