@@ -1,0 +1,29 @@
+[
+    {
+        "hostname": "web-01",
+        "ip_address": "192.168.1.10",
+        "status": "online",
+        "cpu_usage": 25.5,
+        "memory_usage": 45.0,
+        "region": "us-est-1",
+        "loaction": "us"
+    },
+    {
+        "hostname": "db-01",
+        "ip_address": "192.168.1.11",
+        "status": "offline",
+        "cpu_usage": 0.0,
+        "memory_usage": 10.0,
+        "region": "us-est-1",
+        "loaction": "us"
+    },
+    {
+        "hostname": "aa_01",
+        "ip_address": "192.167.89.1.1",
+        "status": "ofline",
+        "cpu_usage": 2.1,
+        "memory_usage": 10.4,
+        "region": "us-est-1",
+        "loaction": "us"
+    }
+]
