@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2025-09-23",
+        "time": "09:46:06",
+        "status": "INFO",
+        "message": "Querying database for user list."
+    },
+    {
+        "date": "2025-09-21",
+        "time": "09:46:01",
+        "status": "ERROR",
+        "message": "Querying database for user list."
+    }
+]

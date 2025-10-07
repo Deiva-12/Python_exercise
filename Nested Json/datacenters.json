@@ -4,8 +4,8 @@
       "name": "us-east-1",
       "location": "N. Virginia, USA",
       "servers": [
-        { "hostname": "web-01", "ip": "10.0.1.10", "status": "online", "cpu": 30.2, "mem": 55.1 },
-        { "hostname": "db-01", "ip": "10.0.1.11", "status": "online", "cpu": 15.0, "mem": 75.0 },
+        { "hostname": "web-01", "ip": "10.0.1.10", "status": "offline", "cpu": 30.2, "mem": 55.1 },
+        { "hostname": "db-01", "ip": "10.0.1.11", "status": "offline", "cpu": 15.0, "mem": 75.0 },
         { "hostname": "cache-01", "ip": "10.0.1.12", "status": "online", "cpu": 5.5, "mem": 85.9 }
       ]
     },
